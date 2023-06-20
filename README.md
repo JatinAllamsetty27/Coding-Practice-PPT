@@ -1,8 +1,6 @@
 # Coding-Practice-PPT
 ## Pre-Placement Training Program 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Pre Placement Training Program is designed to make students interview-ready within just 60 days. We cover a comprehensive range of topics, including Data Structures and Algorithms (DSA), specialized courses in Web Development, Java, Data Science, and Big Data, as well as aptitude training, soft skills development, profile building, and interview preparation. This program equips students with the technical expertise, aptitude skills, and interview awareness necessary to excel in job interviews and secure their dream jobs. Join us and unlock your full potential for a successful career ahead.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Assigment-1 - Arrays
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
